@@ -18,3 +18,11 @@ This portfolio page will contain builds that were created during my L2 time
 Slack doesn't give you that ability like certain other apps do and it has a complicated format where you have to go to your settings and click all this nonsense just to activate your notifications.
 
 This is just a simple step flow than anybody could understand in a minute. 
+
+## 2. Updated Craigslist - https://updated-craigslist.vercel.app 
+
+**With this craigslist clone, I just wanted to fix up the job's posting ad price visual for individuals who still use the craigslist website.**
+
+I didnt realize craigslist had an ad business model where advertisers use their website to post and pay craigslist to post em.
+
+On their regular website it wasnt as a clear to let people know that these are the prices for posting ads so I just wanted to capture it alil bit better.
