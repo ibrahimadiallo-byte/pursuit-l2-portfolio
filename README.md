@@ -7,7 +7,6 @@ My name is Ibrahima and before being an ai native at pursuit I was just more foc
 This portfolio page will contain builds that were created during my L2 time
 
 - One of the builds created with my pair was the Onboarding Slack Notification
-- Another build created was the AI Voice Cloning Scam APP Alert called Voiceguard
 - Creating the Netflix Recently viewed Tab feature on Netflix homepage
 - Most recent build would be the AI Grid Orchestrator
 - There was also a build where my pair and I updated how the ad price section//selection looked for Craigslist as well
