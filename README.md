@@ -11,3 +11,7 @@ This portfolio page will contain builds that were created during my L2 time
 - Creating the Netflix Recently viewed Tab feature on Netflix homepage
 - Most recent build would be the AI Grid Orchestrator
 - There was also a build where my pair and I updated how the ad price section//selection looked for Craigslist as well
+
+## 1. Slack Notification Onboarding - onboardingslacknotification-b2wqbbwrl-ibrahimapursuits-projects.vercel.app
+
+The problem that I was looking to solve was just briefly providing new users to slack the ability to select how they would want to be notified right away. Slack doesn't give you that ability like certain other apps do and it has a complicated format where you have to go to your settings and click all this nonsense just to activate your notifications. This is just a simple step flow than anybody could understand in a minute. 
