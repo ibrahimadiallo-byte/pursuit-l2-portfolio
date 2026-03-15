@@ -1,14 +1,12 @@
-## Pursuit L2 Portfolio
+## Ibrahima Diallo — Pursuit L2 Portfolio
 
-This repo organizes my Pursuit L2 builds in one place so employers and mentors can quickly see what I've built, how I think about problems, and how I ship end-to-end solutions.
+**Video Editor | AI-Native Builder**
 
-## About Me
+I’m an AI-native builder with a background in video editing and storytelling. I focus on turning real-world friction into clear, simple product flows, and I communicate problems and solutions in a way that non-technical and technical folks can both follow. I work best on teams, contributing both to the UX and to how we frame and present the work.
 
-My name is Ibrahima. I focus on building with AI, clearly presenting problems and solutions, and collaborating as a strong team player. I enjoy taking real-world friction points, breaking them down, and turning them into simple, easy-to-use experiences.
+## Projects
 
-## Portfolio Overview
-
-This portfolio currently highlights my L2 builds:
+This portfolio highlights my Pursuit L2 builds:
 
 - **Slack Notification Onboarding** – guided notification preferences for new Slack users.
 - **Updated Craigslist** – clearer ad pricing visuals for Craigslist job postings.
