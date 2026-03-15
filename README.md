@@ -54,4 +54,4 @@ What this portfolio includes:
 - **Summary**: AI-powered build from L2 focused on orchestrating and visualizing real-time grid data from ERCOT (Texas) and ISO-NE (New England) through a FastAPI backend and Streamlit dashboard.
 - **Key features**: Live grid metrics by region, rule-based "Green Mode" and "Reliability Mode" thresholds, and automated recommendations for reducing data center load when the grid is under stress.
 - **What the UI shows**: Generation fuel mix, price components, grid capacity, imports and peak demand, system conditions, and reliability/green mode rules for different regions.
-- **Screenshots**: High-level dashboard views of Maine (ISO-NE) and Texas (ERCOT) grid conditions, including real-time thresholds, alerts, and automated load-control responses.
+- **Screenshots**: High-level dashboard views of Maine (ISO-NE) and Texas (ERCOT) grid conditions, including real-time thresholds, alerts, and automated load-control responses. [View AI Grid Orchestrator screenshots](https://docs.google.com/document/d/13huvh6GxZFoF_ZCNeOV3Fr1my9oT_X0zLuKGZCITHBM/edit?usp=sharing).
