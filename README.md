@@ -26,3 +26,9 @@ This is just a simple step flow than anybody could understand in a minute.
 I didnt realize craigslist had an ad business model where advertisers use their website to post and pay craigslist to post em.
 
 On their regular website it wasnt as a clear to let people know that these are the prices for posting ads so I just wanted to capture it alil bit better.
+
+## 3. Netflix Recently Viewed Feature - https://netflix-recently-viewed-feature.vercel.app/
+
+- Netflix's viewing history is hidden deep in settings, takes 6+ clicks to access, offers poor UX when users forget what they were browsing, and provides no quick, prominent section for recently viewed but not necessarily unfinished content.
+- This feature is designed to improve user experience, reduce friction, increase user engagement and session time, and demonstrate UX thinking and problem-solving skills.
+- With this feature, users can easily find recently viewed content, re-discover shows they were interested in, and reach their viewing history with fewer clicks.
